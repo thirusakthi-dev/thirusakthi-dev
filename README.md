@@ -1,6 +1,17 @@
+
 <h2 align="center">Hi , I'm Thiru</h2>
 
 <h4 align="center">A passionate frontend developer</h4>
+
+- 🔭 I'm interested in **Frontend Development**
+
+- 🌱 I’m currently diving deeper into **React Library**
+
+- 💬 Ask me about **Responsive Web Design, Best Practices of React**
+
+- 📫 How to reach me **thirusakthi.dev@gmail.com**
+
+- 📄 Know about my experiences [https://thirusakthi-dev.github.io/Thiru-Dev-Portfolio/](https://thirusakthi-dev.github.io/Thiru-Dev-Portfolio/)
 
 <p align="left">🔭  I'm interested in Frontend Development.</p>
 
