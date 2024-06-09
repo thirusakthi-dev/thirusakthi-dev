@@ -25,8 +25,8 @@
   </a>
 </div>
 <h2 align="left">🔧 Tech Stack:</h2>
-<h3 align="center">Languages;</h3>
-<div align="center">
+<h3>Languages;</h3>
+<div >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -43,9 +43,9 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
 </div>
-<h3 align="center">Tools:</h3>
+<h3 >Tools:</h3>
 
-<div align="center">
+<div ">
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
