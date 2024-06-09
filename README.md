@@ -1,4 +1,4 @@
-
+![](https://raw.githubusercontent.com/thirusakthi-dev/thirusakthi-dev/main/banner.png)
 <h2 align="center">Hi , I'm Thiru</h2>
 
 <h4 align="center">A passionate frontend developer</h4>
