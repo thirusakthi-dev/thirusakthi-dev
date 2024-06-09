@@ -45,7 +45,7 @@
 </div>
 <h3 >Tools:</h3>
 
-<div ">
+<div>
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
@@ -55,11 +55,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
-###
-
-<h2 align="left">⚡Stats</h2>
-
-
-<img src="https://raw.githubusercontent.com/thirusakthi-dev/thirusakthi-dev/output/snake.svg" alt="Snake animation" />
 
 
