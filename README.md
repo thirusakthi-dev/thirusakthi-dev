@@ -1,20 +1,8 @@
-<br clear="both">
-
 <h2 align="center">Hi , I'm Thiru</h2>
-
-###
-
-<br clear="both">
 
 <h4 align="center">A passionate frontend developer</h4>
 
-###
-
-<br clear="both">
-
 <p align="left">🔭  I'm interested in Frontend Development.</p>
-
-###
 
 <br clear="both">
 
