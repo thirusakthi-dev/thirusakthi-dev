@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Responsive Web Design, Best Practices of React**
 
-- 📫 How to reach me: **thirusakthi.dev@gmail.com**
-
 - 📄 Know about my experiences: [https://thirusakthi-dev.github.io/Thiru-Dev-Portfolio/](https://thirusakthi-dev.github.io/Thiru-Dev-Portfolio/)
 
 <h2 align="left">🖇️ Let's connect!</h2>
@@ -23,7 +21,7 @@
 </div>
 
 <h2 align="left">🔧 Tech Stack:</h2>
-<h3>Languages;</h3>
+<h3>Languages:</h3>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="10" />
