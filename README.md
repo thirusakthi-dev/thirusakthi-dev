@@ -9,37 +9,12 @@
 
 - 💬 Ask me about **Responsive Web Design, Best Practices of React**
 
-- 📫 How to reach me **thirusakthi.dev@gmail.com**
+- 📫 How to reach me: **thirusakthi.dev@gmail.com**
 
-- 📄 Know about my experiences [https://thirusakthi-dev.github.io/Thiru-Dev-Portfolio/](https://thirusakthi-dev.github.io/Thiru-Dev-Portfolio/)
-
-<p align="left">🔭  I'm interested in Frontend Development.</p>
-
-<br clear="both">
-
-<p align="left">🌱 I’m currently diving deeper into React JS</p>
-
-###
-
-<br clear="both">
-
-<p align="left">💬 Ask me about Responsive Web Design and Best Practices of React</p>
-
-###
-
-<br clear="both">
-
-<p align="left">📄 Know about my experiences: https://thirusakthi-dev.github.io/Thiru-Dev-Portfolio/</p>
-
-###
-
-<br clear="both">
+- 📄 Know about my experiences: [https://thirusakthi-dev.github.io/Thiru-Dev-Portfolio/](https://thirusakthi-dev.github.io/Thiru-Dev-Portfolio/)
 
 <h2 align="left">🖇️ Let's connect!</h2>
 
-###
-
-<br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/thirusakthi-dev/" target="_blank">
