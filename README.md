@@ -38,23 +38,8 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
 <h2 align="left">🔧 Tech Stack:</h2>
-
-###
-
-<br clear="both">
-
 <h3 align="center">Languages;</h3>
-
-###
-
-<br clear="both">
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="14" />
@@ -73,13 +58,11 @@
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
 </div>
 
-###
 
-<br clear="both">
 
 <h3 align="center">Tools:</h3>
 
-###
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
@@ -95,8 +78,7 @@
 
 <h2 align="left">⚡Stats</h2>
 
-###
 
 <img src="https://raw.githubusercontent.com/thirusakthi-dev/thirusakthi-dev/output/snake.svg" alt="Snake animation" />
 
-###
+
