@@ -1,11 +1,11 @@
-![](https://raw.githubusercontent.com/thirusakthi-dev/thirusakthi-dev/main/banner.png)
+![](https://raw.githubusercontent.com/thirusakthi-dev/thirusakthi-dev/main/banner-git.png)
 <h1>Hi , I'm Thiru</h1>
 
 <p>A passionate frontend developer</p>
 
 - 🔭 I'm interested in **Frontend Development**
 
-- 🌱 I’m currently diving deeper into **React Library**
+- 🌱 I’m currently diving deeper into **React JS**
 
 - 💬 Ask me about **Responsive Web Design, Best Practices of React**
 
