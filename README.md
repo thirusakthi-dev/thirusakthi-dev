@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Responsive Web Design, Best Practices of React**
 
-- 📄 Know about my experiences: [https://thirusakthi-dev.github.io/Thiru-Dev-Portfolio/](https://thirusakthi-dev.github.io/Thiru-Dev-Portfolio/)
+- 📄 Know about my experiences: [Portfolio/](https://thiru-dev.netlify.app//)
 
 <h2 align="left">🖇️ Let's connect!</h2>
 
