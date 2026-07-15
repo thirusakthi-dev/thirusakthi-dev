@@ -21,14 +21,29 @@
 
 ### `~/whoami`
 
+<table>
+<tr>
+<td width="25%" align="center" valign="middle">
+<br />
+<img src="https://api.iconify.design/tabler:terminal-2.svg?color=%237ee787" width="70%" alt="" />
+<br /><br />
+</td>
+<td width="75%" valign="top">
+<img src="https://img.shields.io/badge/-0d1117?style=flat-square&color=0d1117" width="620" height="1" alt="" />
+
 I'm a developer driven by curiosity, creativity, and the pursuit of meaningful work.
 I enjoy transforming ideas into polished digital products by combining thoughtful design,
-modern engineering, and emerging AI technologies. Beyond writing code, I'm constantly
-exploring better ways to build, solve complex problems, and create experiences that are
-intuitive, impactful, and built to last.
+modern engineering, and emerging AI technologies.
+
+Beyond writing code, I'm constantly exploring better ways to build, solve complex problems,
+and create experiences that are intuitive, impactful, and built to last.
 
 Currently building AI-powered applications at **Glimmora International** — focused on
 generative AI, LLMs, and the modern web.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -38,33 +53,33 @@ Every great product follows a process. Mine is simple.
 
 <table>
 <tr>
-<td><img src="https://img.shields.io/badge/-0d1117?style=flat-square&color=0d1117" width="300" height="1" alt="" /></td><td><img src="https://img.shields.io/badge/-0d1117?style=flat-square&color=0d1117" width="300" height="1" alt="" /></td><td><img src="https://img.shields.io/badge/-0d1117?style=flat-square&color=0d1117" width="300" height="1" alt="" /></td>
-</tr>
-<tr>
 <td align="center" valign="top">
+<img src="https://img.shields.io/badge/-0d1117?style=flat-square&color=0d1117" width="300" height="1" alt="" />
 <br />
-<img src="https://api.iconify.design/tabler:tool.svg?color=%237ee787" height="44" alt="" />
-<br /><br />
+<img src="https://api.iconify.design/tabler:tool.svg?color=%237ee787"  width="30" alt="" />
+
 <b>Build</b>
-<br /><br />
+
 <sub>Design with purpose.<br />Engineer with clarity.</sub>
-<br /><br />
+<br/><br />
 </td>
 <td align="center" valign="top">
+<img src="https://img.shields.io/badge/-0d1117?style=flat-square&color=0d1117" width="300" height="1" alt="" />
 <br />
-<img src="https://api.iconify.design/tabler:bug.svg?color=%23f0883e" height="44" alt="" />
-<br /><br />
+<img src="https://api.iconify.design/tabler:bug.svg?color=%23f0883e" width="30" alt="" />
+
 <b>Break</b>
-<br /><br />
+
 <sub>Question everything<br />before users do.</sub>
 <br /><br />
 </td>
 <td align="center" valign="top">
+<img src="https://img.shields.io/badge/-0d1117?style=flat-square&color=0d1117" width="300" height="1" alt="" />
 <br />
-<img src="https://api.iconify.design/tabler:rocket.svg?color=%2358a6ff" height="44" alt="" />
-<br /><br />
+<img src="https://api.iconify.design/tabler:rocket.svg?color=%2358a6ff" width="30" alt="" />
+
 <b>Ship</b>
-<br /><br />
+
 <sub>Deliver with confidence.<br />Improve relentlessly.</sub>
 <br /><br />
 </td>
@@ -190,24 +205,33 @@ Every great product follows a process. Mine is simple.
 
 <table>
 <tr>
-<td><img src="https://img.shields.io/badge/-0d1117?style=flat-square&color=0d1117" width="300" height="1" alt="" /></td><td><img src="https://img.shields.io/badge/-0d1117?style=flat-square&color=0d1117" width="300" height="1" alt="" /></td><td><img src="https://img.shields.io/badge/-0d1117?style=flat-square&color=0d1117" width="300" height="1" alt="" /></td>
-</tr>
-<tr>
 <td align="center" valign="top">
-<img src="https://api.iconify.design/tabler:mail.svg?color=%237ee787" height="22" alt="" /><br />
-<sub><b>Email</b></sub><br />
+<img src="https://img.shields.io/badge/-0d1117?style=flat-square&color=0d1117" width="300" height="1" alt="" />
+<br />
+<img src="https://api.iconify.design/tabler:mail.svg?color=%237ee787" height="48" alt="" />
+<br />
+<sub><b>Email</b></sub>
+<br />
 <sub><a href="mailto:thirusakthi.dev@gmail.com">thirusakthi.dev@gmail.com</a></sub>
 <br /><br />
 </td>
 <td align="center" valign="top">
-<img src="https://api.iconify.design/tabler:world.svg?color=%2358a6ff" height="22" alt="" /><br />
-<sub><b>Website</b></sub><br />
+<img src="https://img.shields.io/badge/-0d1117?style=flat-square&color=0d1117" width="300" height="1" alt="" />
+<br />
+<img src="https://api.iconify.design/tabler:world.svg?color=%2358a6ff" height="48" alt="" />
+<br />
+<sub><b>Website</b></sub>
+<br />
 <sub><a href="https://thirusakthi-dev.vercel.app">thirusakthi-dev.vercel.app</a></sub>
 <br /><br />
 </td>
 <td align="center" valign="top">
-<img src="https://api.iconify.design/tabler:map-pin.svg?color=%23f0883e" height="22" alt="" /><br />
-<sub><b>Location</b></sub><br />
+<img src="https://img.shields.io/badge/-0d1117?style=flat-square&color=0d1117" width="300" height="1" alt="" />
+<br />
+<img src="https://api.iconify.design/tabler:map-pin.svg?color=%23f0883e" height="48" alt="" />
+<br />
+<sub><b>Location</b></sub>
+<br />
 <sub>Chennai, India &nbsp;·&nbsp; Remote</sub>
 <br /><br />
 </td>
