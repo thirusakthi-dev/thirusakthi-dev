@@ -1,162 +1,223 @@
-<!--
-  ───────────────────────────────────────────────────────────────
-   PROFILE README · replace  your-username / Your Name / links  below
-  ───────────────────────────────────────────────────────────────
--->
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░  HERO  ░░░░░░░░░░░░░░░░░░░░░░ -->
-
-```
-┌──────────────────────────┐
-│  > Your Name▐            │
-└──────────────────────────┘
-
-   Full-Stack Engineer
-   Build · Break · Ship
-```
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a3e,50:252556,100:1e3a5f&height=190&section=header&text=Thiruvengadam%20Sakthivel&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Builder&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Thiruvengadam Sakthivel — Full-Stack Developer • AI Builder" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=8B949E&center=true&vCenter=true&width=420&height=34&lines=Full-Stack+Engineer;Build+%C2%B7+Break+%C2%B7+Ship" alt="tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=7EE787&center=true&vCenter=true&width=560&height=32&lines=Turning+ambitious+ideas+into+digital+experiences;Elegant+design.+Scalable+engineering.+Intelligent+AI." alt="Turning ambitious ideas into thoughtful digital experiences" />
 </a>
 
+<p>
+<a href="https://github.com/thirusakthi-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/thiruvengadam-sakthivel/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://thirusakthi-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://thirusakthi-dev.vercel.app/resume.pdf"><img src="https://img.shields.io/badge/Resume-8b949e?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume" /></a>
+<a href="mailto:thirusakthi.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/badge/●_Open_to_work-161b22?style=flat-square&labelColor=161b22&color=7ee787" alt="Open to work" />
+</p>
+
+</div>
+
+---
+
+### `~/whoami`
+
+I'm a developer driven by curiosity, creativity, and the pursuit of meaningful work.
+I enjoy transforming ideas into polished digital products by combining thoughtful design,
+modern engineering, and emerging AI technologies. Beyond writing code, I'm constantly
+exploring better ways to build, solve complex problems, and create experiences that are
+intuitive, impactful, and built to last.
+
+Currently building AI-powered applications at **Glimmora International** — focused on
+generative AI, LLMs, and the modern web.
+
+---
+
+### `~/philosophy`
+
+Every great product follows a process. Mine is simple.
+
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/-0d1117?style=flat-square&color=0d1117" width="300" height="1" alt="" /></td><td><img src="https://img.shields.io/badge/-0d1117?style=flat-square&color=0d1117" width="300" height="1" alt="" /></td><td><img src="https://img.shields.io/badge/-0d1117?style=flat-square&color=0d1117" width="300" height="1" alt="" /></td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<br />
+<img src="https://api.iconify.design/tabler:tool.svg?color=%237ee787" height="44" alt="" />
 <br /><br />
+<b>Build</b>
+<br /><br />
+<sub>Design with purpose.<br />Engineer with clarity.</sub>
+<br /><br />
+</td>
+<td align="center" valign="top">
+<br />
+<img src="https://api.iconify.design/tabler:bug.svg?color=%23f0883e" height="44" alt="" />
+<br /><br />
+<b>Break</b>
+<br /><br />
+<sub>Question everything<br />before users do.</sub>
+<br /><br />
+</td>
+<td align="center" valign="top">
+<br />
+<img src="https://api.iconify.design/tabler:rocket.svg?color=%2358a6ff" height="44" alt="" />
+<br /><br />
+<b>Ship</b>
+<br /><br />
+<sub>Deliver with confidence.<br />Improve relentlessly.</sub>
+<br /><br />
+</td>
+</tr>
+</table>
 
-<!-- ░░░░░░░░░░░░  SOCIAL · monochrome  ░░░░░░░░░░░░ -->
+---
 
-<a href="https://github.com/your-username" title="GitHub"><img src="https://cdn.simpleicons.org/github/8b949e" height="22" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/your-username" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/8b949e" height="22" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://your-portfolio.com" title="Portfolio"><img src="https://cdn.simpleicons.org/vercel/8b949e" height="22" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://your-website.com" title="Website"><img src="https://cdn.simpleicons.org/googlechrome/8b949e" height="22" alt="Website" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://dev.to/your-username" title="Dev.to"><img src="https://cdn.simpleicons.org/devdotto/8b949e" height="22" alt="Dev.to" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://hashnode.com/@your-username" title="Hashnode"><img src="https://cdn.simpleicons.org/hashnode/8b949e" height="22" alt="Hashnode" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://medium.com/@your-username" title="Medium"><img src="https://cdn.simpleicons.org/medium/8b949e" height="22" alt="Medium" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/your-username" title="X"><img src="https://cdn.simpleicons.org/x/8b949e" height="22" alt="X" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://youtube.com/@your-username" title="YouTube"><img src="https://cdn.simpleicons.org/youtube/8b949e" height="22" alt="YouTube" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://discord.com/users/your-id" title="Discord"><img src="https://cdn.simpleicons.org/discord/8b949e" height="22" alt="Discord" /></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:you@example.com" title="Email"><img src="https://cdn.simpleicons.org/maildotru/8b949e" height="22" alt="Email" /></a>
+### `~/toolkit`
 
-</div>
+<table width="100%">
+<tr>
+<td width="14%" align="right" valign="middle"><b><sub>Frontend</sub></b></td>
+<td width="86%" align="left" valign="middle"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,sass&theme=dark" height="28" alt="React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Sass" /></td>
+</tr>
+<tr>
+<td width="14%" align="right" valign="middle"><b><sub>Backend</sub></b></td>
+<td width="86%" align="left" valign="middle"><img src="https://skillicons.dev/icons?i=python,fastapi,nodejs&theme=dark" height="28" alt="Python, FastAPI, Node.js" /></td>
+</tr>
+<tr>
+<td width="14%" align="right" valign="middle"><b><sub>Databases</sub></b></td>
+<td width="86%" align="left" valign="middle"><img src="https://skillicons.dev/icons?i=postgres,supabase,prisma&theme=dark" height="28" alt="PostgreSQL, Supabase, Prisma" /></td>
+</tr>
+<tr>
+<td width="14%" align="right" valign="middle"><b><sub>Cloud</sub></b></td>
+<td width="86%" align="left" valign="middle"><img src="https://skillicons.dev/icons?i=vercel,docker&theme=dark" height="28" alt="Vercel, Docker" /></td>
+</tr>
+<tr>
+<td width="14%" align="right" valign="middle"><b><sub>Tools</sub></b></td>
+<td width="86%" align="left" valign="middle"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" height="28" alt="Git, GitHub, VS Code, Postman" /></td>
+</tr>
+</table>
+
+---
+
+### `~/work`
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**RuffDraff**<br />
+<sub>`LIVE` &nbsp;·&nbsp; 2026</sub>
+
+<sub>Production agency portfolio with immersive 3D experiences. Built with emphasis on technical SEO, accessibility, responsive design, and performance.</sub>
+
+<img src="https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=58a6ff" alt="Next.js" /> <img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=58a6ff" alt="React" /> <img src="https://img.shields.io/badge/Three.js-161b22?style=flat-square&logo=threedotjs&logoColor=58a6ff" alt="Three.js" /> <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=58a6ff" alt="TypeScript" />
+
+<sub>[Live Demo →](https://www.ruffdraff.com)</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**Antar**<br />
+<sub>`LIVE` &nbsp;·&nbsp; 2026</sub>
+
+<sub>Cross-platform mobile app pairing intelligent AI conversations with a clean, intuitive experience — focused on mental well-being.</sub>
+
+<img src="https://img.shields.io/badge/React%20Native-161b22?style=flat-square&logo=react&logoColor=58a6ff" alt="React Native" /> <img src="https://img.shields.io/badge/Groq-161b22?style=flat-square&logo=groq&logoColor=58a6ff" alt="Groq" /> <img src="https://img.shields.io/badge/Supabase-161b22?style=flat-square&logo=supabase&logoColor=58a6ff" alt="Supabase" /> <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=58a6ff" alt="PostgreSQL" />
+
+<sub>[Live Demo →](https://thirusakthi-dev.vercel.app/#work)</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**ReColor**<br />
+<sub>`LIVE` &nbsp;·&nbsp; 2025</sub>
+
+<sub>Chrome extension enhancing YouTube with real-time video adjustments — brightness, contrast, saturation, hue, and color filters.</sub>
+
+<img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=58a6ff" alt="React" /> <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=58a6ff" alt="JavaScript" /> <img src="https://img.shields.io/badge/Chrome-161b22?style=flat-square&logo=googlechrome&logoColor=58a6ff" alt="Chrome" />
+
+<sub>[Live Demo →](https://thirusakthi-dev.vercel.app/#work)</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**More**<br />
+<sub>`PORTFOLIO`</sub>
+
+<sub>Case studies, process breakdowns, and the full body of work live on the portfolio.</sub>
+
+<sub>[View all projects →](https://thirusakthi-dev.vercel.app/#work)</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+### `~/journey`
+
+```
+🚀  v5.0   Mar 2026 — Present    AI Full-Stack Developer @ Glimmora International
+ |                               LLM integrations, intelligent workflows,
+ |                               production-ready architecture.
+ |
+⚡  v4.0   Sep 2025 — Feb 2026   Frontend Developer @ Emayam Technologies
+ |                               Scalable frontend, usability, clean engineering.
+ |
+🌱  v3.0   Jan 2024 — Mar 2024   React Developer Intern @ Plater Labs
+ |
+🌟  v1.0   Jul 2022 — Mar 2023   Software Engineer @ RapidData Technologies
+```
+
+<sub>[Full timeline →](https://thirusakthi-dev.vercel.app/#journey)</sub>
+
+---
+
+### `~/contact`
+
+<div align="center">
 
 <br />
 
-<!-- ░░░░░░░░░░░░░░░░░░░░  STACK  ░░░░░░░░░░░░░░░░░░░░ -->
+**Building something meaningful?**
 
-```
-$ cat stack.txt
-```
+<sub>Looking for an engineer who cares about quality, performance, and innovation?<br />Let's start the conversation.</sub>
+
+<br />
 
 <table>
-  <tr>
-    <td align="right" width="110"><sub><b>Frontend</b></sub></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,sass,vite&theme=dark" alt="Frontend" /></td>
-  </tr>
-  <tr>
-    <td align="right"><sub><b>Backend</b></sub></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,go,rust,graphql&theme=dark" alt="Backend" /></td>
-  </tr>
-  <tr>
-    <td align="right"><sub><b>AI / ML</b></sub></td>
-    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="AI / ML" /></td>
-  </tr>
-  <tr>
-    <td align="right"><sub><b>Databases</b></sub></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,supabase&theme=dark" alt="Databases" /></td>
-  </tr>
-  <tr>
-    <td align="right"><sub><b>Cloud</b></sub></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,vercel&theme=dark" alt="Cloud" /></td>
-  </tr>
-  <tr>
-    <td align="right"><sub><b>DevOps</b></sub></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,nginx,linux&theme=dark" alt="DevOps" /></td>
-  </tr>
-  <tr>
-    <td align="right"><sub><b>Mobile</b></sub></td>
-    <td><img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift&theme=dark" alt="Mobile" /></td>
-  </tr>
-  <tr>
-    <td align="right"><sub><b>Tools</b></sub></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,neovim,postman,figma,notion&theme=dark" alt="Tools" /></td>
-  </tr>
-  <tr>
-    <td align="right"><sub><b>Design</b></sub></td>
-    <td><img src="https://skillicons.dev/icons?i=figma,ps,ai,xd&theme=dark" alt="Design" /></td>
-  </tr>
+<tr>
+<td><img src="https://img.shields.io/badge/-0d1117?style=flat-square&color=0d1117" width="300" height="1" alt="" /></td><td><img src="https://img.shields.io/badge/-0d1117?style=flat-square&color=0d1117" width="300" height="1" alt="" /></td><td><img src="https://img.shields.io/badge/-0d1117?style=flat-square&color=0d1117" width="300" height="1" alt="" /></td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<img src="https://api.iconify.design/tabler:mail.svg?color=%237ee787" height="22" alt="" /><br />
+<sub><b>Email</b></sub><br />
+<sub><a href="mailto:thirusakthi.dev@gmail.com">thirusakthi.dev@gmail.com</a></sub>
+<br /><br />
+</td>
+<td align="center" valign="top">
+<img src="https://api.iconify.design/tabler:world.svg?color=%2358a6ff" height="22" alt="" /><br />
+<sub><b>Website</b></sub><br />
+<sub><a href="https://thirusakthi-dev.vercel.app">thirusakthi-dev.vercel.app</a></sub>
+<br /><br />
+</td>
+<td align="center" valign="top">
+<img src="https://api.iconify.design/tabler:map-pin.svg?color=%23f0883e" height="22" alt="" /><br />
+<sub><b>Location</b></sub><br />
+<sub>Chennai, India &nbsp;·&nbsp; Remote</sub>
+<br /><br />
+</td>
+</tr>
 </table>
 
 <br />
 
-<!-- ░░░░░░░░░░░░░░░░░░░░  PROJECTS  ░░░░░░░░░░░░░░░░░░░░ -->
-
-```
-$ ls projects/
-```
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/your-username/project-one">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-one&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e&border_color=30363d&hide_border=false" alt="project-one" />
-      </a>
-      <p><sub><b>Aurora</b> — AI copilot that turns intent into deployable automation.</sub></p>
-      <p><sub>Next.js · Python &nbsp; <a href="https://github.com/your-username/project-one">repo</a> · <a href="https://project-one.demo.com">demo</a></sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/your-username/project-two">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-two&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e&border_color=30363d&hide_border=false" alt="project-two" />
-      </a>
-      <p><sub><b>Nebula UI</b> — headless, accessible component system.</sub></p>
-      <p><sub>React · TypeScript &nbsp; <a href="https://github.com/your-username/project-two">repo</a> · <a href="https://project-two.demo.com">demo</a></sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/your-username/project-three">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-three&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e&border_color=30363d&hide_border=false" alt="project-three" />
-      </a>
-      <p><sub><b>Forge CLI</b> — fast developer toolchain, one command to ship.</sub></p>
-      <p><sub>Rust · Go &nbsp; <a href="https://github.com/your-username/project-three">repo</a> · <a href="https://project-three.demo.com">demo</a></sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/your-username/project-four">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-four&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e&border_color=30363d&hide_border=false" alt="project-four" />
-      </a>
-      <p><sub><b>Signal</b> — real-time analytics, sub-second latency at scale.</sub></p>
-      <p><sub>Vue · Node · Redis &nbsp; <a href="https://github.com/your-username/project-four">repo</a> · <a href="https://project-four.demo.com">demo</a></sub></p>
-    </td>
-  </tr>
-</table>
+<sub>Open to Remote, Full-Time &amp; Freelance opportunities</sub>
 
 <br />
-
-<!-- ░░░░░░░░░░░░░░░░░░░░  STATS  ░░░░░░░░░░░░░░░░░░░░ -->
-
-```
-$ git log --stat
-```
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&bg_color=0d1117&text_color=c9d1d9&icon_color=8b949e&border_color=30363d&hide_border=false" alt="GitHub Stats" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=6&hide_title=true&bg_color=0d1117&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="Top Languages" height="165" />
-
-</div>
-
-<br />
-
-<!-- ░░░░░░░░░░░░░░░░░░░░  CONTACT  ░░░░░░░░░░░░░░░░░░░░ -->
-
-```
-$ ./contact.sh
-```
-
-<div align="center">
-
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/you@example.com-0d1117?style=flat-square&logo=maildotru&logoColor=8b949e&labelColor=161b22" alt="Email" /></a>
-&nbsp;
-<img src="https://img.shields.io/badge/status-open%20to%20work-0d1117?style=flat-square&labelColor=161b22" alt="Open to work" />
 
 </div>
